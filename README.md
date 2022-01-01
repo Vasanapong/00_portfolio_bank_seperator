@@ -1,6 +1,7 @@
 # Bank Seperator Project
 
-A Bank Seperator app created with HTML CSS JavaScript ( React )
+A Bank Seperator app created with HTML CSS JavaScript ( React )\
+Link : https://relaxed-hugle-ac3cde.netlify.app/
 
 # Preview
 
